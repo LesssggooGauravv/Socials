@@ -57,14 +57,14 @@ li{
 
 li a{
     text-decoration: none;
-    color: #333;
+    color: beige;
     display: block;
 }
 
 li a:hover, 
 li a:focus{
     /* backdrop-filter: blur(5px); */
-    color: beige;
+    color: #d88747;
     cursor: pointer;
 }
 
